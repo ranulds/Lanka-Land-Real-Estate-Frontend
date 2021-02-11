@@ -2,16 +2,16 @@
 
 **Homepage:**
 
-![alt text](https://github.com/ranulds/Lanka-Land-Real-Estate-Frontend/blob/main/samples/homepage.jpeg?raw=true)
+![Homepage](https://github.com/ranulds/Lanka-Land-Real-Estate-Frontend/blob/main/samples/homepage.jpeg?raw=true)
 
 **Contact Us page:**
 
-![alt text](https://github.com/ranulds/Lanka-Land-Real-Estate-Frontend/blob/main/samples/conctactus.jpeg?raw=true)
+![Contact Us](https://github.com/ranulds/Lanka-Land-Real-Estate-Frontend/blob/main/samples/contactus.jpeg?raw=true)
 
 **Login page:**
 
-![alt text](https://github.com/ranulds/Lanka-Land-Real-Estate-Frontend/blob/main/samples/login.jpeg?raw=true)
+![Login](https://github.com/ranulds/Lanka-Land-Real-Estate-Frontend/blob/main/samples/login.jpeg?raw=true)
 
 **Admin page:**
 
-![alt text](https://github.com/ranulds/Lanka-Land-Real-Estate-Frontend/blob/main/samples/admin.jpeg?raw=true)
+![Admin](https://github.com/ranulds/Lanka-Land-Real-Estate-Frontend/blob/main/samples/admin.jpeg?raw=true)
