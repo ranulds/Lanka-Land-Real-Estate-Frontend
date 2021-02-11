@@ -1,3 +1,12 @@
+# Technology Stack
+
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Redux
+- Jest
+
 # Sample Screens
 
 **Homepage:**
